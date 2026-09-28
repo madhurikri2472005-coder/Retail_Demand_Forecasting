@@ -1,0 +1,13 @@
+version: 2
+
+sources:
+  - name: retail_demand
+    database: prismatic-rock-509611-c1
+    schema: retail_demand
+
+    tables:
+      - name: sales_train
+      - name: calendar
+      - name: sell_prices_part1
+      - name: sell_prices_part2
+      - name: sell_prices_part3

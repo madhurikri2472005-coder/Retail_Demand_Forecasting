@@ -6,3 +6,7 @@ __pycache__/
 data/raw/sell_prices_part1.csv
 data/raw/sell_prices_part2.csv
 data/raw/sell_prices_part3.csv
+# dbt generated files
+target/
+dbt_packages/
+logs/
